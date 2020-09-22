@@ -1,3 +1,3 @@
 # Real-world-AR-Pet
 
-A preliminary demo of this project.
+An real world AR pet system with interaction and navigation function.
